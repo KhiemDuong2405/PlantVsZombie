@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Plant Vs. Zombie Fake:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Plant_Vs__Zombie_Fake_jar</output-path>
+    <root id="archive" name="GamePVZDemo.jar">
+      <element id="module-output" name="GamePVZDemo" />
+    </root>
+  </artifact>
+</component>
